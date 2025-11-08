@@ -1,0 +1,12 @@
+*{
+    font-family: Arial, sans-serif;
+    font-size: bold;
+    font-weight: bold;
+    
+}
+
+.is_depressed{
+    background-color:  #ff9602ad;
+    /* box-shadow: inset 1px 1px 3px  #da8003ee; */
+    transform: translateY(2px);
+}
